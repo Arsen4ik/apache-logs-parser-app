@@ -3,7 +3,7 @@ Stack:
     React + TypeScript,
     axios,
     tailwindComponents + tailwindCSS,
-    SCSS
+    SCSS;
   server:
     nodeJS + TypeScript,
-    prismaORM + SQLite
+    prismaORM + SQLite;
